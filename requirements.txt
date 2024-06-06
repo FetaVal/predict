@@ -1,10 +1,12 @@
 pandas
 plotly
 streamlit
-yfinance
+altair
 pandas-datareader
-prophet
+warnings
 predict_page  
 explore_page
 pathlib
 streamlit_authenticator
+numpy  
+matplotlib
