@@ -2,9 +2,6 @@ pandas
 plotly
 streamlit
 altair
-pandas-datareader
-show_predict_page
-show_explore_page
 pathlib
 streamlit_authenticator
 numpy  
