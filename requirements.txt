@@ -3,7 +3,6 @@ plotly
 streamlit
 altair
 pandas-datareader
-warnings
 predict_page  
 explore_page
 pathlib
