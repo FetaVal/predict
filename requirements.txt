@@ -4,3 +4,7 @@ streamlit
 yfinance
 pandas-datareader
 prophet
+predict_page  
+explore_page
+pathlib
+streamlit_authenticator
